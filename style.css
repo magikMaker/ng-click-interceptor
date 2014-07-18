@@ -10,7 +10,7 @@
 
 .ui-disabled {
   background-color: #dfdfdf;
-  border-color: #666;
+  border: 1px solid #666;
   color: #666;
 }
 
