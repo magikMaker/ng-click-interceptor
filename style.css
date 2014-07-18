@@ -1,16 +1,16 @@
 .ui-button {
-  border: 1px solid #999;
-  border-radius: 3px;
-  font-size: 1.5em;
-  margin-bottom: 1em;
-  outline: none;
-  padding: .5em;
-  text-decoration: none;
+    border: 1px solid #999;
+    border-radius: 3px;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    outline: none;
+    padding: .5em;
+    text-decoration: none;
 }
 
 .ui-disabled {
-  background-color: #dfdfdf;
-  border: 1px solid #666;
-  color: #666;
+    background-color: #dfdfdf;
+    border: 1px solid #666;
+    color: #666;
 }
 
