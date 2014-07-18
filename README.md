@@ -13,9 +13,5 @@ Obviously change to your needs. $scope.disabledState is only here for demo purpo
 ```
 
 # Example
-See the live example below
-<iframe style="border: 1px solid #999;width: 100%; height: 300px"
-        src="http://embed.plnkr.co/eNxXMm15Amj9dPMswLdA/preview" frameborder="0"
-        allowfullscreen="allowfullscreen">
-  Loading plunk...
-</iframe>
+See the live example on plnkr:
+http://embed.plnkr.co/eNxXMm15Amj9dPMswLdA/preview
