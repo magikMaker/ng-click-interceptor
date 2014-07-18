@@ -13,5 +13,4 @@ Obviously change to your needs. $scope.disabledState is only here for demo purpo
 ```
 
 # Example
-See the live example on plnkr:
-http://embed.plnkr.co/eNxXMm15Amj9dPMswLdA/preview
+See the live example on [plnkr](http://embed.plnkr.co/eNxXMm15Amj9dPMswLdA/preview)
